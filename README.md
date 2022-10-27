@@ -6,7 +6,7 @@ NIM    : 312210108
 
 # Menghitung Luas dan Keliling Lingkaran Menggunakan Python
 
-1. Buat File bernama Tugas Keliling Lingkarang_Praktikum3.py
+1. Buat File bernama Tugas Keliling Lingkaran_Praktikum3.py
 2. Berikut Flowchart untuk menghitung luas dan keliling lingkaran
 
 <img width="625" alt="Flowchart luas keliling lingkaran" src="https://user-images.githubusercontent.com/115520278/198221842-74a004ce-ea43-45b2-bb44-8ffcdaa42da7.png">
